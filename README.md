@@ -12,17 +12,17 @@ IMNY-UT.232 • Interactive Media Arts (IMA) • NYU Tisch School of the Arts �
 | Supplemental Materials  | [Resources]() |  
 
 ## Contents
-- [Course Description]()
-- [Learning Objectives]()
-- [Class Format]()
-- [Community Guidelines]()
-- [Communication]()
-- [Support]()
-- [Equipment]()
-- [Participation and Attendance]()
-- [Assignments Overview]()
-- [Grading]()
-- [Statements]()
+- [Course Description](https://github.com/ellennickles/xphoto-s22#course-description)
+- [Learning Objectives](https://github.com/ellennickles/xphoto-s22#learning-objectives)
+- [Class Format](https://github.com/ellennickles/xphoto-s22#class-format)
+- [Community Guidelines](https://github.com/ellennickles/xphoto-s22#community-guidelines)
+- [Communication](https://github.com/ellennickles/xphoto-s22#communication)
+- [Support](https://github.com/ellennickles/xphoto-s22#support)
+- [Equipment](https://github.com/ellennickles/xphoto-s22#equipment)
+- [Participation and Attendance](https://github.com/ellennickles/xphoto-s22#participation-and-attendance)
+- [Assignments Overview](https://github.com/ellennickles/xphoto-s22#assignments-overview)
+- [Grading](https://github.com/ellennickles/xphoto-s22#grading)
+- [Statements](https://github.com/ellennickles/xphoto-s22#statements)
 
 ## Course Description
 This course is designed to provide hands-on experience with creative coding, physical computing, and machine learning to design alternative forms of taking, making, processing, and interacting with images for visual communication and creative expression. The forms and applications of emerging computational tools are explored weekly in technical tutorials and active workshops. These are informed by seminar discussions of readings on critical debates in photography, the history of its tools and uses, and the works of historical and contemporary photographers and artists using photography and new media. The homework includes reading, short writing responses, and photography shooting assignments. Prerequisites: IMA’s introductory courses, Creative Computing (or similar coursework with coding and microcontrollers) and Comm Lab: HyperCinema (or similar coursework exploring communication and storytelling with digital tools).
