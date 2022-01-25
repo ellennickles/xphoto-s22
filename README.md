@@ -8,8 +8,8 @@ IMNY-UT.232 • Interactive Media Arts (IMA) • NYU Tisch School of the Arts �
 | Instructor   | Ellen Nickles |
 | Contact | [ellen.nickles@nyu.edu](mailto:ellen.nickles@nyu.edu) or Discord @Ellen (she/her) <br> On weekdays I'll do my best to respond within 24 hours |
 | Student Hours  | In person or Zoom on Mondays 1:30pm - 3:30pm ET or email me • [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUJBXzVpUFp3azhlfGRlZmF1bHR8MDk4NDA1OWMzNzEyMThhZjVkMTgzYWI3YmUxMWNmY2M) |
-| Assignments   | [Schedule and Assignments]() |
-| Supplemental Materials  | [Resources]() |  
+| Assignments   | [Schedule and Assignments](https://github.com/ellennickles/xphoto-s22/tree/main/schedule-assignments) |
+| Supplemental Materials  | [Resources](https://github.com/ellennickles/xphoto-s22/tree/main/resources) |  
 
 ## Contents
 - [Course Description](https://github.com/ellennickles/xphoto-s22#course-description)
@@ -122,7 +122,7 @@ There are two assignments each week:
 1. **Photography experiment and reflection**: A creative exercise to explore the possibilities of various technical and conceptual decisions in our photography practices. You are expected to post your photographs on your blog, a link to your code (if applicable), and write a short (100 word minimum) reflection about your experience. The intention of these reflections is to help you develop an awareness of your creative choices over time and note any technical complications. 
 2. **Written reading response**: A short (200 word minimum) written response in the form of a blog post to the assigned reading and prompt. The intention of these responses is to provide you with the opportunity to consider the course content at your own pace and in your own words, and to prepare for upcoming, related in-class discussions and activities. 
 
-You are welcome to combine both parts into one blog post. Check the [Schedule and Assignments]() for specific homework descriptions, due dates, and submission links.
+You are welcome to combine both parts into one blog post. Check the [Schedule and Assignments](https://github.com/ellennickles/xphoto-s22/tree/main/schedule-assignments) for specific homework descriptions, due dates, and submission links.
 
 ### Final Project
 The course will culminate with the completion of a final project to be shared in class. You are expected to push your abilities to produce something that builds off or is inspired by the concepts explored during the semester. For the final project you are expected to present a project proposal, create a working prototype to share for peer feedback, and present a completed final project to our class. 
