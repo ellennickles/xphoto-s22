@@ -5,7 +5,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/xphoto-s22) • [Resou
 *Topics subject to change
 
  Date | Week | Topic |
-| ------- | ----------- | ----------- |
+| :--- | :--- | :--- |
 | Jan 26 | Week 1 | What is photography? |
 | | | **Unit 1 • Capture** |
 | Feb 2 | Week 2 | Single Camera | 
