@@ -37,7 +37,7 @@
 - [ITP/IMA Code of Conduct](https://itpnyu.github.io/ITP-IMA-Code-of-Conduct/index) 
 - Our class engages in experimental practices and also provides space to share our work, engage with that of others, and cultivate ways of collaboratively providing feedback to promote awareness and discovery in our creative practices (i.e. what creative decisions are we making). We’ll talk more about this in class next week. To get started, based on the readings above and on your own experiences, in the same blog post write about ways to foster a class community in which it is safe to experiment with ideas and materials and to share our results with one another.
 
-### SUBMIT • [Submit your blog post here]() (NYU login required)
+### SUBMIT • [Assignment Form](https://forms.gle/JfwCTv7JqkieZ8yz8) (NYU login required)
 
 ### PREPARE FOR WEEKS 4-5 (Feb 16 and Feb 23)
 - During these weeks we'll use physical computing to create alternative shutter buttons. Here's a checklist to prepare. Especially with global supply chain issues and shipping delays these days, please don't wait until the last minute. 
