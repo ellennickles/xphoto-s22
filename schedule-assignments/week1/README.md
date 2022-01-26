@@ -41,7 +41,7 @@
 
 ### PREPARE FOR WEEKS 4-5 (Feb 16 and Feb 23)
 - During these weeks we'll use physical computing to create alternative shutter buttons. Here's a checklist to prepare. Especially with global supply chain issues and shipping delays these days, please don't wait until the last minute if you need to order anything.
-- Gather the following materials
+- Gather the following materials:
     - Arduino (Uno or Nano 33 IoT depending on when you took Creative Computing)
     - Cables to connect your Arduino to you computer
     - Solderless breadboard
@@ -49,10 +49,10 @@
     - Sensor(s) with which you have previous experience or are excited to use (but no buttons or toggle switches!)
     - Resistors and other components required for use with sensor(s) (check The Shop bins!)
     - The [ITP/IMA Equipment Room (ER)]( https://itp.nyu.edu/er/) (NYU login required) has some Arduinos and accessories available to check out
-- Install the following apps
+- Install the following apps:
     - [Arduino IDE v1.8.15 or later](https://www.arduino.cc/en/software) (but not 2.0)
     - [p5.serialcontrol](https://github.com/p5-serial/p5.serialcontrol/releases) (for Macs: Beta 1.2 > Assets > p5.serialcontrol-darwin-x64.zip)
-- Install and test your Arduino
+- Install and test your Arduino:
     - [Arduino Uno Quickstart Guide](https://docs.arduino.cc/hardware/uno-rev3)
     - [Arduino Nano 33 IoT Quickstart Guide](https://docs.arduino.cc/hardware/nano-33-iot)
    
