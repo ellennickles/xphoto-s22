@@ -50,6 +50,7 @@ During class, we will use [our Miro board](https://tinyurl.com/xphoto-s22-miro),
 
 Outside of class:
 - You are expected to check your NYU email frequently for course-related information, including but not limited to general announcements and updates. Please feel free to email me with any questions or concerns any time.
+- You can also contact me on the ITP/IMA Discord @Ellen (she/her).
 - Student Hours will take place in person or on Zoom. [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUJBXzVpUFp3azhlfGRlZmF1bHR8MDk4NDA1OWMzNzEyMThhZjVkMTgzYWI3YmUxMWNmY2M) 
 - Expect to submit your assignments using a Google Form.
 - I'll provide assignment feedback on individually-shared Google documents.
