@@ -15,9 +15,9 @@
 - Course overview
 - [Survey](https://docs.google.com/forms/d/e/1FAIpQLSdhJNCO4BgyW3tyNPLecFCC1jCURLbOeVtfrYGfcNi1_nOtcA/viewform) (NYU login required)
 
-## Resources / examples (TBA)
-- Slides
-- Photography history
+## Resources / examples
+- [Slides](https://drive.google.com/drive/u/0/folders/1YZtWK03TXGCoGmy7WeQYF-BBulZFAbHA)
+- [Photography history](https://github.com/ellennickles/xphoto-s22/blob/main/resources/general-photography.md#history)
 
 ## Assignment due Tuesday • Feb 1 • 11:59pm
 
