@@ -4,7 +4,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/xphoto-s22) • [Resou
 
 *Topics subject to change
 
- Date | Week | Topic |
+ Date | Week | Assignment |
 | :--- | :--- | :--- |
 | Jan 26 | Week 1 | [What is photography?](https://github.com/ellennickles/xphoto-s22/tree/main/schedule-assignments/week1) |
 | | | **Unit 1 • Capture** |
