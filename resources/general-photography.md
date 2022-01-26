@@ -1,9 +1,9 @@
 # General Photography
 
 ## Rights in the United States
-- [Your Rights as a Photographer](https://petapixel.com/2021/07/08/your-rights-as-a-photographer-in-the-united-states/)
 - [The Photographer’s Right: Your Rights and Remedies When Stopped or Confronted
 for Photography](http://www.krages.com/ThePhotographersRight.pdf)
+- [Your Rights as a Photographer](https://petapixel.com/2021/07/08/your-rights-as-a-photographer-in-the-united-states/) (free speech, licensing, photographic evidence, and copyrights)
 
 ## History
 - [Photographic Flux: Photography through time](https://www.photographic-flux.ch/) (use Chrome to translate into English)
