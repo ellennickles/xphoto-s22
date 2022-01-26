@@ -92,8 +92,8 @@ You will need a **modern laptop**. Four years old or younger is a good rule of t
 - (Optional) You are welcome to use image editing software, such as Photoshop or Lightroom, to post-process the photographs that you make. These programs are available as part of the Adobe Creative Cloud Suite, which NYU provides free of charge. See the [Tisch Adobe Creative Cloud User Guide](https://nyu.service-now.com/sp?sys_kb_id=0dc611e1dbea80d4a5962feb0b96193c&id=kb_article_view&sysparm_rank=5&sysparm_tsqueryId=510883501b22b050839598651a4bcb86). (The deadline to enroll in Adobe CC for the Spring 2022 semester was January 21. Speak with ITP/IMA's Scott Broussard if you have questions.)
 
 ### Physical Computing
-- (Weeks 4-5) If you're an IMA student, expect to use the Arduino kit you acquired for your Creative Computing class. Depending on when you took Creative Computing, this might include an Arduino Uno or Nano 33 IoT. Either one will work. Arduino Unos and Nano 33 BLE Senses (which will also work) are listed as available to check out from ER.
-- I recommend using sensors that you already have and with which you have previous experience.
+- (Weeks 4-5) If you're an IMA student, expect to use the Arduino kit you acquired for your Creative Computing class. Depending on when you took Creative Computing, this might include an Arduino Uno or Nano 33 IoT. Either one will work. Arduino Unos, Nano 33 IoTs, and Nano 33 BLE Senses (which will also work) are listed as available to check out from The Shop.
+- I recommend using sensors that you already have and with which you have previous experience. The Shop also provides some sensors to check out.
 - For general information on electronic components, sensors, their availability at ITP/IMA, and where to purchase them see the [ITP Physical Computing Parts and Tools Guide](https://itp.nyu.edu/physcomp/resources/parts-and-tools-guide/).
 
 ## Participation and Attendance
