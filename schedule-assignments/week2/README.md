@@ -14,16 +14,16 @@
 - Workshop: Taking Photographs in p5.js
 
 ## Resources / examples
-- Slides
-- Elements of a Photograph
-- Looking at Photographs
+- [Slides](https://drive.google.com/drive/u/0/folders/1YZtWK03TXGCoGmy7WeQYF-BBulZFAbHA)
+- [Elements of a Photograph](https://github.com/ellennickles/xphoto-s22/blob/main/resources/photograph-elements.md)
+- [Looking at Photographs](https://github.com/ellennickles/xphoto-s22/blob/main/resources/looking-at-photographs.md)
 - [Website Demos](https://ellennickles.github.io/demos/) (with video input device example)
 - p5 starter sketches (use Chrome)
-    - Save canvas with built-in camera
-    - External webcam
-    - Timer
-    - Timer continuous
-- [External Webcams](https://tinyurl.com/externalwebcams) in the ITP/IMA ER and software to adjust settings
+    - [Save canvas with built-in camera](https://editor.p5js.org/enickles/sketches/CEimsl7DY)
+    - [External webcam](https://editor.p5js.org/enickles/sketches/tZR8oRO0f)
+    - [Timer](https://editor.p5js.org/enickles/sketches/ZRKCkJU4F)
+    - [Timer continuous](https://editor.p5js.org/enickles/sketches/hE1vQWF8P)
+- [External Webcams](https://tinyurl.com/externalwebcams) in the ITP/IMA ER and apps to adjust settings
 
 ## Assignment due Tuesday • Feb 8 • 11:59pm
 ### PART 1 • EXPERIMENT & REFLECT
@@ -31,14 +31,14 @@
 - Pick an object at home that you love. 
 - Ideally, connect an external camera and use a separate application to adjust the settings to black and white (see [External Webcams](https://tinyurl.com/externalwebcams)).
 - Take at least **36 different black and white photographs** of it using your computer’s built-in camera or an external webcam. (Why black and white? Why 36?)
-- Each photograph should be visually distinct. Use the [Elements of a Photograph]() from class today if you need inspiration. 
-- Post a link to your code and the images on your blog and write a short reflection on your process and results. What do the images show? Why do you like the images? What qualities do you like best (see [Elements of a Photograph]())? What did you have trouble with? What would you do differently next time? Describe the experience of creating the images? What did you feel? What was surprising, enjoyable, or challenging?
+- Each photograph should be visually distinct. Use the [Elements of a Photograph](https://github.com/ellennickles/xphoto-s22/blob/main/resources/photograph-elements.md) from class today if you need inspiration. 
+- Post a link to your code and the images on your blog and write a short reflection on your process and results. What do the images show? Why do you like the images? What qualities do you like best (see [Elements of a Photograph](https://github.com/ellennickles/xphoto-s22/blob/main/resources/photograph-elements.md))? What did you have trouble with? What would you do differently next time? Describe the experience of creating the images? What did you feel? What was surprising, enjoyable, or challenging?
 
-### PART 2 • [READ]() & RESPOND
+### PART 2 • [READ](https://drive.google.com/drive/u/0/folders/1YZtWK03TXGCoGmy7WeQYF-BBulZFAbHA) & RESPOND
 - What is the “decisive moment”? This idea is a recurring theme in photography. Read the Introduction to *The Decisive Moment* by Henri Cartier-Bresson (1952) and an "Interview with Henri Cartier-Bresson from Famous Photographers Tell How (1958)" on American Suburb-X. 
-- Select a photograph from the book, *The Decisive Moment* (video content warning: nudity). Take a screenshot of the selected picture, add it to your blog post, and answer the questions in [Looking at Photographs]() to practice reading the elements of a photograph. (HINT: Drop your screenshot into a Google Image Search to find a better version?)
+- Select a photograph from the book, *The Decisive Moment* (video content warning: nudity). Take a screenshot of the selected picture, add it to your blog post, and answer the questions in [Looking at Photographs](https://github.com/ellennickles/xphoto-s22/blob/main/resources/looking-at-photographs.md) to practice reading the elements of a photograph. (HINT: Drop your screenshot into a Google Image Search to find a better version?)
 
-### SUBMIT • [Submit your blog post here]()
+### SUBMIT • [Submit your blog post here](https://forms.gle/JfwCTv7JqkieZ8yz8)
 
 ### PREPARE FOR WEEKS 4-5 (Feb 16 and Feb 23)
 - During these weeks, we'll use physical computing to create alternative shutter buttons. Here's a checklist to prepare. Especially with current global supply chain issues and shipping delays, please don't wait until the last minute. 
