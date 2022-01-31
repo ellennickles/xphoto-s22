@@ -167,7 +167,7 @@ This class uses the standard A through F letter grading system, and grades will 
 60% - 62.5% D-, and
 0% - 60% F
 
-In general, A indicates excellent work, B indicates good work, C indicates satisfactory work, and D indicates passable work and is the lowest passing grade. F indicates failure. There are some additional grades—P for pass, W for Withdrawal—which are granted administratively.
+In general, A indicates excellent work, B indicates good work, C indicates satisfactory work, and D indicates passable work and is the lowest passing grade. F indicates failure. There are some additional grades: P for pass and  W for Withdrawal—which are granted administratively. Please note that IMA majors need a C or higher to satisfy their IMA requirements, i.e. receiving a D will not count for credit towards the IMA major.
 
 ## Statements
 ### Academic Integrity 
