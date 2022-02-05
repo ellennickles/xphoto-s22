@@ -128,7 +128,7 @@ You are welcome to combine both parts into one blog post. Check the [Schedule an
 The course will culminate with the completion of a final project to be shared in class. You are expected to push your abilities to produce something that builds off or is inspired by the concepts explored during the semester. For the final project you are expected to present a project proposal, create a working prototype to share for peer feedback, and present a completed final project to our class. 
 
 ## Grading
-Assignments will be evaluated on timeliness, completeness, engagement with the activities and materials to explore ideas in ways that express your own points of view (adapted from [source](https://bcourses.berkeley.edu/courses/1464145/pages/grading-rubric-for-reading-responses)). I’ll create a private, individual Google Doc for each student to share evaluations.
+Assignments will be evaluated on timeliness, completeness, and engagement with the course materials to explore ways of expressing your own points of view (adapted from [source](https://bcourses.berkeley.edu/courses/1464145/pages/grading-rubric-for-reading-responses)). I’ll create a private, individual Google Doc for each student to share evaluations.
 
 **Photography experiments and reflections** are worth four (4) points, one (1) point for each of the following:
 - The exercise addresses the creative prompt;
