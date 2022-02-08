@@ -46,7 +46,7 @@
     - Jumper wires
     - Sensor(s) with which you have previous experience or are excited to use (but no buttons or toggle switches!)
     - Resistors and other components required for use with sensor(s) (check The Shop bins!)
-    - The [ITP/IMA Equipment Room (ER)]( https://itp.nyu.edu/er/) (NYU login required) lists some Arduinos and accessorie, but head over to The Shop to check them out.
+    - The [ITP/IMA Equipment Room (ER)]( https://itp.nyu.edu/er/) (NYU login required) lists some Arduinos and accessories, but head over to The Shop to check them out.
 - Install the following apps
     - [Arduino IDE v1.8.15 or later](https://www.arduino.cc/en/software) (but not 2.0)
     - [p5.serialcontrol](https://github.com/p5-serial/p5.serialcontrol/releases) (for Macs: Beta 1.2 > Assets > p5.serialcontrol-darwin-x64.zip)
