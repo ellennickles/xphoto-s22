@@ -9,7 +9,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/xphoto-s22) • [Resou
 | Jan 26 | Week 1 | [What is photography?](https://github.com/ellennickles/xphoto-s22/tree/main/schedule-assignments/week1) |
 | | | **Unit 1 • Capture** |
 | Feb 2 | Week 2 | [Single Camera](https://github.com/ellennickles/xphoto-s22/tree/main/schedule-assignments/week2) | 
-| Feb 9 | Week 3 | Multiple Cameras | 
+| Feb 9 | Week 3 | [Multiple Cameras](https://github.com/ellennickles/xphoto-s22/blob/main/schedule-assignments/week3/README.md) | 
 | Feb 16 | Week 4 | Alternative Shutter Buttons 1 | 
 | Feb 23 | Week 5 | Alternative Shutter Buttons 2 | 
 | | | **Unit 2 • Appropriation and Automation** |
