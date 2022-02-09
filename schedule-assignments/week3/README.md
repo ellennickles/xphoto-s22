@@ -15,6 +15,7 @@
 ## Resources / examples
 - [Slides](https://drive.google.com/drive/u/0/folders/1YZtWK03TXGCoGmy7WeQYF-BBulZFAbHA)
 - p5 starter sketches (use Chrome)
+    - [Draw multiple cameras - manual, do the math](https://editor.p5js.org/enickles/sketches/5po9rdiyu)
     - Select which cameras to use, but restart sketches after connecting/disconnecting devices
         - [Draw multiple cameras vertically - select webcams](https://editor.p5js.org/enickles/sketches/0QM4x2yIs) 
         - [Draw multiple cameras horizontally - select webcams](https://editor.p5js.org/enickles/sketches/-GbN3d7y_)
