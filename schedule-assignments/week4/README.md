@@ -37,4 +37,4 @@
 - Post the three images on your blog along with a short description about how color contributes the composition. How does color move your eye through or around the images? Does color contribute to the mood or energy of an image for you? Does it work to empahsize a particular aspect of the photograph? (If you use others' images, be sure to give credit and link back to the source!)
 - Include at least one (1) question for discussion or further reflection. 
 
-### SUBMIT • [Assignment Form](https://forms.gle/JfwCTv7JqkieZ8yz8) (NYU login required)
+### SUBMIT • [Submit your blog post here](https://forms.gle/JfwCTv7JqkieZ8yz8) (NYU login required)
