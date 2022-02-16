@@ -45,5 +45,5 @@ void loop() {
 //    }
 //  }
   // slight delay to stabilize the ADC
-  delay(1);
+  delay(100);
 }
