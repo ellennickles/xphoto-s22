@@ -20,8 +20,10 @@
 - p5 starter sketch (use Chrome): 
     - [WK4/5 • Serial input to p5](https://editor.p5js.org/enickles/sketches/Kn2UqZsFg)
 - Additional
+    - [Iriun Webcam](https://iriun.com/) (Use your phone's camera as a wireless webcam in your PC or Mac)
     - [p5.serialcontrol app](https://github.com/p5-serial/p5.serialcontrol/releases) (for Macs: Beta 1.2 > Assets > p5.serialcontrol-darwin-x64.zip)
     - [ITP PComp: Parts and Tools Guide](https://itp.nyu.edu/physcomp/resources/parts-and-tools-guide/)
+    - [Adafruit Online Store](https://www.adafruit.com/) (more parts, based in NYC) 
     - [Resistor Color Code Calculator and Chart](https://www.allaboutcircuits.com/tools/resistor-color-code-calculator/)
     - Review of [microcontroller basics, pin functions, breadboard layouts, Nano 33 IoT, sensor basics, and the lab on serial input to p5.js](https://github.com/ellennickles/xphoto-s22/blob/main/resources/technical-resources.md#physical-computing)
 
