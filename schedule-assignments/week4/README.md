@@ -18,7 +18,8 @@
     - [XPhoto_Analog_Threshold_Timer](https://github.com/ellennickles/xphoto-s22/blob/main/schedule-assignments/week4/XPhoto_Analog_Threshold_Timer.ino)
     - [XPhoto_Digital_OnOff](https://github.com/ellennickles/xphoto-s22/blob/main/schedule-assignments/week4/XPhoto_Digital_OnOff.ino)
 - p5 starter sketch (use Chrome): 
-    - [WK4/5 • Serial input to p5](https://editor.p5js.org/enickles/sketches/Kn2UqZsFg)
+    - [Serial input to p5 - select port from menu](https://editor.p5js.org/enickles/sketches/Kn2UqZsFg)
+    - [Serial input to p5 - hard code port](https://editor.p5js.org/enickles/sketches/TZ6GoIpxI)
 - Additional
     - [Iriun Webcam](https://iriun.com/) (Use your phone's camera as a wireless webcam in your PC or Mac)
     - [p5.serialcontrol app](https://github.com/p5-serial/p5.serialcontrol/releases) (for Macs: Beta 1.2 > Assets > p5.serialcontrol-darwin-x64.zip)
