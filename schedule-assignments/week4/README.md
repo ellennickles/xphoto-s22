@@ -13,11 +13,11 @@
 
 ## Resources / examples
 - [Slides](https://drive.google.com/drive/u/0/folders/1YZtWK03TXGCoGmy7WeQYF-BBulZFAbHA)
-- Arduino starter sketches:
+- Arduino starter sketches
     - [XPhoto_Analog_Threshold](https://github.com/ellennickles/xphoto-s22/blob/main/schedule-assignments/week4/XPhoto_Analog_Threshold.ino)
     - [XPhoto_Analog_Threshold_Timer](https://github.com/ellennickles/xphoto-s22/blob/main/schedule-assignments/week4/XPhoto_Analog_Threshold_Timer.ino)
     - [XPhoto_Digital_OnOff](https://github.com/ellennickles/xphoto-s22/blob/main/schedule-assignments/week4/XPhoto_Digital_OnOff.ino)
-- p5 starter sketch (use Chrome): 
+- p5 starter sketches (use Chrome) 
     - [Serial input to p5 - select port from menu](https://editor.p5js.org/enickles/sketches/Kn2UqZsFg)
     - [Serial input to p5 - hard code port](https://editor.p5js.org/enickles/sketches/TZ6GoIpxI)
 - Additional
