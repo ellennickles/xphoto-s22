@@ -16,9 +16,9 @@
 - [Slides](https://drive.google.com/drive/u/0/folders/1YZtWK03TXGCoGmy7WeQYF-BBulZFAbHA)
 - [Adobe's Color Wheel](https://color.adobe.com/create/color-wheel)
 - Arduino starter sketches
-    - [XPhoto_Analog_2Readings_Threshold]()
-    - [XPhoto_Nano33IoT_AccData]()
-    - [XPhoto_Nano33IoT_GyroData]()
+    - [XPhoto_Analog_2Readings_Threshold](https://github.com/ellennickles/xphoto-s22/blob/main/schedule-assignments/week5/XPhoto_Analog_2Readings_Threshold.ino)
+    - [XPhoto_Nano33IoT_AccData](https://github.com/ellennickles/xphoto-s22/blob/main/schedule-assignments/week5/XPhoto_Nano33IoT_AccData.ino)
+    - [XPhoto_Nano33IoT_GyroData](https://github.com/ellennickles/xphoto-s22/blob/main/schedule-assignments/week5/XPhoto_Nano33IoT_GyroData.ino)
 - p5 starter sketches (use Chrome) 
     - [Serial input to p5 - select port from menu](https://editor.p5js.org/enickles/sketches/Kn2UqZsFg)
     - [Serial input to p5 - hard code port](https://editor.p5js.org/enickles/sketches/TZ6GoIpxI)
