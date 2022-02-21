@@ -23,7 +23,7 @@
     - [Serial input to p5 - select port from menu](https://editor.p5js.org/enickles/sketches/Kn2UqZsFg)
     - [Serial input to p5 - hard code port](https://editor.p5js.org/enickles/sketches/TZ6GoIpxI)
 
-## Assignment due Tuesday • Feb 22 • 11:59pm
+## Assignment due Tuesday • Mar 1 • 11:59pm
 ### PART 1 • EXPERIMENT & REFLECT (PARTNERS OPTIONAL)
 - Continue to work with sensor triggers and take a series of images, but add color this week. Be deliberate about color choices and placement in the composition. You could focus on one dominant color or work within a color scheme. 
 - Work with the same sensor, a new one, or several at time. Continue to consider: how is triggering the capture the result of a change (or inactivity) in the environment or an action (or reaction) of the body? Is the triggering active or passive? How does the choice of sensor and its context in the world contribute to the intentions or expressions of the image? The only rule is: no buttons or toggle switches on your Arduino to trigger captures.
