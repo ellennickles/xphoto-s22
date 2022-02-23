@@ -12,13 +12,13 @@
 
   Suggested workflow:
   STEP 1: Observe range of sensor readings in serial monitor
-          (save and upload to Nano 33 IoT) 
+          (save and upload to Arduino) 
   STEP 2: Set your threshold value in the variable above setup()
   STEP 3: Comment out all the serial.print() and serial.println() used in STEP 1
   STEP 4: Uncomment all the code to compare the difference in sensor readings,
           and based on that difference in a relation to the threshold, 
           send bytes to the serial port 
-          (save and upload to Nano 33 IoT) 
+          (save and upload to Arduino) 
 
   You might need to repeat these steps when testing threshold values. 
 */
