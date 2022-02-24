@@ -15,8 +15,8 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/xphoto-s22) • [Resou
 | | | **Unit 2 • Appropriation and Automation** |
 | Mar 2 | Week 6 | Internet Photography | 
 | Mar 9 | Week 7 | Automating Photomontages | 
-| Mar 16 | Week 8 | Generative Images 1 • Datasets | 
-| Mar 23 | No class | Spring Break | 
+| Mar 16 | No class | Spring Break | 
+| Mar 23 | Week 8 | Generative Images 1 • Datasets | 
 | Mar 30 | Week 9 | Generative Images 2 • GAN Training | 
 | | | **Unit 3 • Custom Software and Interaction** |
 | Apr 6 | Week 10 | Layers and Masks | 
