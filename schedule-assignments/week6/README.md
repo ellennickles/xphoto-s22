@@ -18,6 +18,7 @@
 
 ## Resources / examples
 - [Slides](https://drive.google.com/drive/u/0/folders/1YZtWK03TXGCoGmy7WeQYF-BBulZFAbHA)
+- [Check-in Survey](https://docs.google.com/forms/d/e/1FAIpQLSdlu-8oDrfcxFuei8GBeLuvsSPS0WblI6ZORFhIi-hFIr4xug/viewform)
 
 ## Assignment due Tuesday • Mar 8 • 11:59pm
 ### PART 1 • EXPERIMENT & REFLECT 
