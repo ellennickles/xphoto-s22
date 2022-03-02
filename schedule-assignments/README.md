@@ -1,6 +1,6 @@
 # Schedule and Assignments
 
-Quicklinks • [Syllabus](https://github.com/ellennickles/xphoto-s22) • [Resources](https://github.com/ellennickles/xphoto-s22/tree/main/resources) • [Miro](https://tinyurl.com/xphoto-s22-miro) • [Assignment Responses](https://drive.google.com/drive/u/0/folders/1YZtWK03TXGCoGmy7WeQYF-BBulZFAbHA) (private for our class)
+Quicklinks • [Syllabus](https://github.com/ellennickles/xphoto-s22) • [Resources](https://github.com/ellennickles/xphoto-s22/tree/main/resources) • [Miro](https://tinyurl.com/xphoto-s22-miro) • [Google Drive with Assignment Responses](https://drive.google.com/drive/u/0/folders/1YZtWK03TXGCoGmy7WeQYF-BBulZFAbHA) (private for our class)
 
 *Topics subject to change
 
