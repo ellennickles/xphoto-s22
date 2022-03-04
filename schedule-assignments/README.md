@@ -23,5 +23,5 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/xphoto-s22) • [Resou
 | Apr 13 | Week 11 | Interaction with ml5.js Body Point Estimation | 
 | | | **Final Projects** |
 | Apr 20 | Week 12 | Final Project Proposals | 
-| Apr 27 | Week 13 | Final Project User Testing |
+| Apr 27 | Week 13 | Final Project Feedback |
 | May 4 | Week 14 | Final Project Presentations | 
