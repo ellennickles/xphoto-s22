@@ -36,7 +36,7 @@
 - Read “The Annihilation of Time and Space” in *River of Shadows* by Rebecca Solnit, pp. 1-24  
 - Did anything surprise you about this reading? What do you want to know more about? It's been about 150 years since Muybridge’s Horse in Motion series, and now electricity and photography are ubiquitous. What currently emerging technologies do you predict could become prevelant in the future? 
 
-### SUBMIT • [Submit your blog post here](https://forms.gle/JfwCTv7JqkieZ8yz8)
+### SUBMIT • [Submit your blog post here](https://forms.gle/JfwCTv7JqkieZ8yz8) (NYU login required)
 
 ### PREPARE FOR **NEXT WEEK** and WEEK 5 (Feb 16 and Feb 23)
 - During these weeks, we'll use physical computing to create alternative shutter buttons. Here's a checklist to prepare. Especially with current global supply chain issues and shipping delays, please don't wait until the last minute. 
