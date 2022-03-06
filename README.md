@@ -1,7 +1,7 @@
 # Experimental Photography
 IMNY-UT.232 • Interactive Media Arts (IMA) • NYU Tisch School of the Arts • Spring 2022
 
-| General Information |  |
+| Course Information |  |
 | :--- | :--- |
 | Meeting Time   | Wednesday 2:00pm - 4:50pm ET |
 | Location   | 370 Jay Street Brooklyn • Room 409  |
