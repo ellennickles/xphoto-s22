@@ -31,7 +31,7 @@
 - The term "automatism" is mentioned in both videos. What does it mean in the context of Surrealism? 
 - Include at least one (1) question for discussion or further reflection. 
 
-### SUBMIT • [Submit your blog post here](https://forms.gle/JfwCTv7JqkieZ8yz8)
+### SUBMIT • [Submit your blog post here](https://forms.gle/JfwCTv7JqkieZ8yz8) (NYU login required)
 
 ### PREPARE FOR NEXT WEEK (Mar 9)
 - Bring scissors and tape to class (but not from The Shop because then everyone on the floor will get annoyed)
