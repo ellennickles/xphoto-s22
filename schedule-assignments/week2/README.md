@@ -38,7 +38,7 @@
 - What is the “decisive moment”? This idea is a recurring theme in photography. Read the Introduction to *The Decisive Moment* by Henri Cartier-Bresson (1952) and an "Interview with Henri Cartier-Bresson from Famous Photographers Tell How (1958)" on American Suburb-X. 
 - Select a photograph from the book, *The Decisive Moment* (video content warning: nudity). Take a screenshot of the selected picture, add it to your blog post, and answer the questions in [Looking at Photographs](https://github.com/ellennickles/xphoto-s22/blob/main/resources/looking-at-photographs.md) to practice reading the elements of a photograph. (HINT: Drop your screenshot into a Google Image Search to find a better version?)
 
-### SUBMIT • [Submit your blog post here](https://forms.gle/JfwCTv7JqkieZ8yz8)
+### SUBMIT • [Submit your blog post here](https://forms.gle/JfwCTv7JqkieZ8yz8) (NYU login required)
 
 ### PREPARE FOR WEEKS 4-5 (Feb 16 and Feb 23)
 - During these weeks, we'll use physical computing to create alternative shutter buttons. Here's a checklist to prepare. Especially with current global supply chain issues and shipping delays, please don't wait until the last minute. 
