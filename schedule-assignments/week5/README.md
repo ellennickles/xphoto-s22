@@ -36,4 +36,4 @@
 - Albers asks: “It’s hardly a newsflash to suggest that words can easily change the meaning of an image, but, at this moment in history, it is worth asking: how do the stakes change when it is a computer, not a human, writing the caption?” Based on the two readings, *what are the stakes?* What is in question when photographs are algorithmically-labeled, organized, and searchable?
 - Include at least one (1) question for discussion or further reflection. 
 
-### SUBMIT • [Submit your blog post here](https://forms.gle/JfwCTv7JqkieZ8yz8)
+### SUBMIT • [Submit your blog post here](https://forms.gle/JfwCTv7JqkieZ8yz8) (NYU login required)
