@@ -18,9 +18,9 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/xphoto-s22) • [Resou
 | Mar 16 | No class | Spring Break | 
 | Mar 23 | Week 8 | Generative Images 1 • Datasets | 
 | Mar 30 | Week 9 | Generative Images 2 • GAN Training | 
-| | | **Unit 3 • Custom Software and Interaction** |
-| Apr 6 | Week 10 | Layers and Masks | 
-| Apr 13 | Week 11 | Interaction with ml5.js Body Point Estimation | 
+| | | **(Mini) Unit 3 • Custom Software and Interaction** |
+| Apr 6 | Week 10 | Layers and Masks in p5.js | 
+| Apr 13 | Week 11 | Field Trip • International Center of Photography (ICP) | 
 | | | **Final Projects** |
 | Apr 20 | Week 12 | Final Project Proposals | 
 | Apr 27 | Week 13 | Final Project Feedback |
