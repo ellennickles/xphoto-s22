@@ -25,10 +25,10 @@
     - [Image basics](https://editor.p5js.org/enickles/sketches/SH_0wRoja)
     - [Image modes](https://editor.p5js.org/enickles/sketches/dABsgrS-g)
 - p5 starter sketches
-    - Auto photomontages (one array)
+    - Auto photomontages (from one array)
         - [Scattered](https://editor.p5js.org/enickles/sketches/blBZttvpS)
         - [Half and half vertical](https://editor.p5js.org/enickles/sketches/YqIlTj9z4)
-    - Auto photomontages (two arrays)
+    - Auto photomontages (from two arrays)
         - [Background foreground](https://editor.p5js.org/enickles/sketches/AeeyaHFhx)
         - [Half and half vertical](https://editor.p5js.org/enickles/sketches/q9_D4kQ63)
         - [Half and half horiztontal](https://editor.p5js.org/enickles/sketches/1Tv17Qkg7)
