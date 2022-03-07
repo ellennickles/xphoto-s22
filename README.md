@@ -104,7 +104,7 @@ This class is highly participatory, and there are many ways to demonstrate your 
 - take part in your classmates’ review sessions;
 - contribute to class discussions (use the weekly reading responses to prepare);
 - participate in group activities;
-- support and help your fellow classmates during discussions and technical workshops;
+- support and help your fellow classmates during discussions and technical workshops.
 
 ### Absences
 Attendance is mandatory. If you think you will be absent, please contact me as soon as possible, at least 24 hours in advance if you can. If you're feeling unwell, please know that I do not require any proof from a medical office, and I will excuse your absence. At most one (1) unexcused absence will be tolerated without affecting your grade. Any more than one (1) unexcused absence will result in a lowering of your final grade by one whole grade for each unexcused absence. For example, two (2) unexcused absences will result in your highest possible grade being a B instead of an A. Three (3) unexcused absences will result in your highest possible grade being a C and so on. Five (5) unexcused absences would result in an automatic F for the course. 
