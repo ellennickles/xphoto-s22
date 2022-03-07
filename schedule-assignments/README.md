@@ -14,7 +14,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/xphoto-s22) • [Resou
 | Feb 23 | Week 5 | [Alternative Shutter Buttons 2](https://github.com/ellennickles/xphoto-s22/blob/main/schedule-assignments/week5) | 
 | | | **Unit 2 • Appropriation and Automation** |
 | Mar 2 | Week 6 | [Internet Photography](https://github.com/ellennickles/xphoto-s22/tree/main/schedule-assignments/week6) | 
-| Mar 9 | Week 7 | Automating Photomontages | 
+| Mar 9 | Week 7 | [Automating Photomontages](https://github.com/ellennickles/xphoto-s22/tree/main/schedule-assignments/week7) | 
 | Mar 16 | No class | Spring Break | 
 | Mar 23 | Week 8 | Generative Images 1 • Datasets | 
 | Mar 30 | Week 9 | Generative Images 2 • GAN Training | 
