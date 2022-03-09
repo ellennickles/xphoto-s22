@@ -21,6 +21,7 @@
 - [Coding Train Videos 9.1-9.3](https://thecodingtrain.com/Tutorials/) on tranformations using `translate()`, `rotate()`, `push()` and `pop()` ~40min
 - Removing image backgrounds
     - [Remove a background in Preview app on Mac](https://support.apple.com/guide/preview/extract-an-image-or-remove-a-background-prvw15636/mac)
+    - [How to Make Transparent Background in Paint 3D on Windows](https://asapguide.com/transparent-background-paint-3d/) (not tested, keep us posted on how this goes!)
     - [How to remove a background in Photoshop for beginners](https://www.youtube.com/watch?v=BQQqnn2uZv4)
 - p5 demos
     - [Image basics](https://editor.p5js.org/enickles/sketches/SH_0wRoja)
