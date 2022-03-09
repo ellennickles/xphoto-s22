@@ -18,6 +18,7 @@
 ## Resources / examples
 - [Slides](https://drive.google.com/drive/u/0/folders/1YZtWK03TXGCoGmy7WeQYF-BBulZFAbHA)
 - [Chrome Extension Image Downloader](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj?hl=en-US)
+- [Coding Train Videos 9.1-9.3](https://thecodingtrain.com/Tutorials/) on tranformations using `translate()`, `rotate()`, `push()` and `pop()` ~40min
 - Removing image backgrounds
     - [Remove a background in Preview app on Mac](https://support.apple.com/guide/preview/extract-an-image-or-remove-a-background-prvw15636/mac)
     - [How to remove a background in Photoshop for beginners](https://www.youtube.com/watch?v=BQQqnn2uZv4)
