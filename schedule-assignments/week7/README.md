@@ -45,3 +45,7 @@
 - Include at least one (1) question for discussion or further reflection.
 
 ### SUBMIT • [Submit your blog post here](https://forms.gle/JfwCTv7JqkieZ8yz8) (NYU login required)
+
+### PREPARE FOR WEEK 8 (MAR 23) IN TWO WEEKS
+- Install [Visual Studio Code](https://code.visualstudio.com/)
+- After install, launch the application and navigate to *Extensions* (last menu item on the far left). Search for and install the extension: p5.vscode by Sam Lavigne
