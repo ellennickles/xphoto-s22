@@ -16,7 +16,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/xphoto-s22) • [Resou
 | Mar 2 | Week 6 | [Internet Photography](https://github.com/ellennickles/xphoto-s22/tree/main/schedule-assignments/week6) | 
 | Mar 9 | Week 7 | [Automating Photomontages](https://github.com/ellennickles/xphoto-s22/tree/main/schedule-assignments/week7) | 
 | Mar 16 | No class | Spring Break | 
-| Mar 23 | Week 8 | Generative Images 1 • Datasets | 
+| Mar 23 | Week 8 | [Generative Images 1 • Datasets](https://github.com/ellennickles/xphoto-s22/blob/main/schedule-assignments/week8) | 
 | Mar 30 | Week 9 | Generative Images 2 • GAN Training | 
 | | | **(Mini) Unit 3 • Custom Software and Interaction** |
 | Apr 6 | Week 10 | Layers and Masks in p5.js | 
