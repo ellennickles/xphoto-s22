@@ -32,7 +32,7 @@
 ## Assignment due Tuesday • Mar 29 • 11:59pm
 
 ### PART 1 • EXPERIMENT & REFLECT 
-- Create a dataset of ~1000+ images (1000-5000 is best), but at least 500 minimum. More images in your dataset will require more model training time and likely increase the "clarity" of your generated images. Prepare your images according to the [Dataset Considerations / Checklist](https://docs.google.com/presentation/d/1WpioRMdfNUe8VOUs9iuKE3gd2mPonSFKFMRx-MedpKM/edit#slide=id.g11e35fd12b0_6_20). 
+- Create a dataset of ~1000+ images (1000-5000 is better), but at least 500 minimum. More images in your dataset requires more model training time but will likely increase the "clarity" of your generated images. Prepare your images according to the [Dataset Considerations / Checklist](https://docs.google.com/presentation/d/1WpioRMdfNUe8VOUs9iuKE3gd2mPonSFKFMRx-MedpKM/edit#slide=id.g11e35fd12b0_6_20). 
 - Depending on your goal, creating and preparing an image dataset of this size can take time; in other words, start well before the night the assignment is due. 
 - Store your dataset in Google Drive and provide a link to it from your blog post.
 - Also a save a local copy of the entire dataset on your computer so that it is ready to use in class next week.
