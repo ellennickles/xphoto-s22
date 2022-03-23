@@ -50,6 +50,5 @@
 
 ### PREPARE FOR NEXT WEEK (MAR 30)
 - Next week we will use Google Colaboratory, or Colab, to run code in the browser to train a machine learning model to generate images. For our purposes, our Colab account requires a Google Drive plan with a large amount of storage space, which we already have through NYU (at least through 2024).
-- Log into your NYU Google Drive account, then sign up for [Google Colab Pro](https://colab.research.google.com/signup), $10.88 per month with taxes.
+- Log into your NYU Google Drive account, then sign up for [Google Colab](https://colab.research.google.com/signup). Google Colab Pro is highly recommended at $10.88 per month with taxes. This is a monthly recurring charge, but the subscription is easy to cancel at any time.
 - We will only use Colab for one week, however you may decide to continue to use it for your final project.
-- Monthly subscriptions are easy to cancel at any time!
