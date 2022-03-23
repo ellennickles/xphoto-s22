@@ -17,7 +17,7 @@
 - p5 starter sketches (web editor)
     - [Auto photomontages on a loop](https://editor.p5js.org/enickles/sketches/qG77m2Tqe)
     - [Save webcam frames on interval](https://editor.p5js.org/enickles/sketches/tcrDIeZgG) (use Chrome)
-- p5 stater projects (locally in text editor)
+- p5 starter projects (locally in text editor)
     - [Images from video](https://editor.p5js.org/enickles/sketches/Nxcq_uOdk)
     - [Resize images preserve aspect ratio](https://editor.p5js.org/enickles/sketches/dWOs-l4Wc)
     - [Center crop images](https://editor.p5js.org/enickles/sketches/pEVEoqoOA)
