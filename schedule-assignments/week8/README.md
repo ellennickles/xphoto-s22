@@ -1,4 +1,4 @@
-# Mar 16 • Week 8 • Generative Images 1 • Datasets
+# Mar 23 • Week 8 • Generative Images 1 • Datasets
 
 >Machine learning is programming with examples, not instructions. (Kyle McDonald, *[Weird Intelligence](https://vimeo.com/304110435)*, KIKK Festival 2018)
 
