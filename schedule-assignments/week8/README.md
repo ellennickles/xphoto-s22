@@ -10,7 +10,7 @@
 - Homework review (in small groups)
 - Generative images, introduction and overview
 - Creating / preparing datasets
-- (Preview) Train a GAN in Google Colab 
+- Preview: Train a GAN in Google Colab 
 
 ## Resources / examples
 - [Slides](https://drive.google.com/drive/u/0/folders/1YZtWK03TXGCoGmy7WeQYF-BBulZFAbHA)
