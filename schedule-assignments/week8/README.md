@@ -41,7 +41,7 @@
 - Include at least one (1) question for discussion or further reflection.
 
 ### EXTRA CREDIT (2 points) • RESEARCH
-- Research an artist not mentioned in class who uses GANs in their work. What type of work do they make? Include and analyze some examples. Why does this artist choose to work with this tool? Include a position, opinion, and/or proposal that does not merely summarize what the artist or others have said, but represents your own thoughts even if they are tentative. For example, what question(s) do you have about their work?
+- Research an artist who uses GANs in their work. What type of work do they make? Include and analyze some examples. Why does this artist choose to work with this tool? Include a position, opinion, and/or proposal that does not merely summarize what the artist or others have said, but represents your own thoughts even if they are tentative. For example, what question(s) do you have about their work?
 - You are welcome to include this research in the same blog post for this week.
 - Some places to start: [Feral File #007 — Reflections in the Water](https://feralfile.com/exhibitions/reflections-in-the-water-9ov) (online exhibition), [ML x ART: A showcase with creative machine learning experiments](https://mlart.co/), and Luba Elliot's [Creative AI newsletter](https://us15.campaign-archive.com/home/?u=c7e080421931e2a646364e3ef&id=a23c388b9d) 
 
