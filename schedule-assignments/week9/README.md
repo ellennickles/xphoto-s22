@@ -23,7 +23,7 @@
 - **Generate** • No matter how far you get, find a .pkl file (aka *network snapshot*) with results that look interesting or promising to you in some way, and use that version of your trained model to generate images. 
 - **Share** • Post some the images on your blog. Write a short reflection on your process and results. For how long did you train your model? What do the images show? Anything surprising? Do you like them? If so, what qualities do you like best (see [Elements of a Photograph](https://github.com/ellennickles/xphoto-s22/blob/main/resources/photograph-elements.md))? What did you have trouble with or what was confusing? Do you feel like a photographer? 
 ### PART 2 • [READ](https://drive.google.com/drive/u/0/folders/1YZtWK03TXGCoGmy7WeQYF-BBulZFAbHA) & RESPOND
-- Read Lev Manovich's, "[Inside Photoshop"](http://computationalculture.net/inside-photoshop/)" from Computational Culture 1, November 2011.
+- Read Lev Manovich's, "[Inside Photoshop](http://computationalculture.net/inside-photoshop/)" from Computational Culture 1, November 2011.
 - Although we are not using Photoshop next week, we are programming layers with code. This article provides historical context for layers, as well for other features that we might commonly associate with image editing. If we consider that Photoshop is a graphical user interface for code-driven manipulations of digital images--files consisting of numbers, is a photograph edited in Photoshop any different from one treated with a self-coded program to manipulate those same numbers? What are the affordances of using pre-existing software vs writing our own? Does a digital photograph have its own unique properties or are they defined by the tools that we use with them?
 
 ### EXTRA CREDIT (2 points) • RESEARCH
