@@ -15,7 +15,7 @@
 
 ## Resources / examples
 - [Slides](https://drive.google.com/drive/u/0/folders/1YZtWK03TXGCoGmy7WeQYF-BBulZFAbHA)
-- [SG2-ADA-PyTorch Notebook • XPhoto 2022.ipynb](https://colab.research.google.com/drive/180YPE-AOzEGErAacOdN3yG5xvW24nH_8#scrollTo=cZkcJ58P97Ls) (in Google Colab)
+- Colab Notebook: [WK9 • SG2-ADA-PyTorch Notebook • XPhoto 2022.ipynb](https://colab.research.google.com/drive/1r9Rvn84ADW67oW48Coa492LADVGZtTmr) (also in our Google Drive folder)
 
 ## Assignment due Tuesday • Apr 5 • 11:59pm 
 ### PART 1 • EXPERIMENT & REFLECT 
