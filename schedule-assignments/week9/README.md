@@ -9,9 +9,10 @@
 ## In class
 - Share datasets
 - Related work
-- Review GANs and transfer learning
-- Start training a StyleGAN2-ADA model in Google Colab
-- Demo: Generating images from a trained model
+- Workshop
+    - Review GANs and transfer learning
+    - Start training a StyleGAN2-ADA model in Google Colab
+    - Demo: Generating images from a trained model
 
 ## Resources / examples
 - [Slides](https://drive.google.com/drive/u/0/folders/1YZtWK03TXGCoGmy7WeQYF-BBulZFAbHA)
