@@ -20,6 +20,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/xphoto-s22) • [Resou
 | Mar 30 | Week 9 | [Generative Images 2 • GAN Training](https://github.com/ellennickles/xphoto-s22/tree/main/schedule-assignments/week9) | 
 | | | **(Mini) Unit 3 • Custom Software and Interaction** |
 | Apr 6 | Week 10 | Layers and Masks in p5.js | 
+| | | **(Mini) Unit 4 • Photographs in the World** |
 | Apr 13 | Week 11 | Field Trip • International Center of Photography (ICP) | 
 | | | **Final Projects** |
 | Apr 20 | Week 12 | Final Project Proposals | 
