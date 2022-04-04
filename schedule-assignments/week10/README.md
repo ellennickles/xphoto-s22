@@ -60,20 +60,20 @@ technology, radically different from an image obtained through a photographic le
 - Next week we will meet at ICP to view their current exhibits: [A Trillion Sunsets • A Century of Image Overload](https://www.icp.org/exhibitions/a-trillion-sunsets) and [
 Actual Size! Photography at Life Scale](https://www.icp.org/exhibitions/actual-size). We will also talk about final projects for the course. Here are the logistics:
 - **Location:** [79 Essex Street](https://goo.gl/maps/26TM2SpbwVFxfm5j6) in Manhattan
-- **Transportation:** 
+- **Transportation** 
     - [All the ways to get to the ICP Museum](https://www.icp.org/contact/find-us)
     - If you traveling from IMA, 370 Jay Street in Brooklyn, take the F train three (3) stops to Manhattan to the Delancy Street / Essex Street station.
 - **Time** • **2:30pm - 4:20pm**
     - Please be prompt!
     - To allow travel time to and from the musuem, class will start 30 min later and end 30 min earlier.
-- **Meeting:** 
+- **Meeting** 
     - We will meet on the first floor in the welcoming public space near the shop.  
     - I'll be there by 2:00pm. 
-- **Schedule:**
+- **Schedule**
     - 2:30pm - 2:45pm • Meet as a class in the welcoming center
     - 2:45pm - 4:00pm • Explore the exhibits (on the 2nd and 3rd floor) and bookstore (1st floor) on your own
     - 4:00pm - 4:20pm • Meet as a class to discuss final projects
-- **For entrance to the museum, please bring the following:**
+- **For entrance to the museum, please bring the following**
     - Your NYU student ID
     - Proof of vaccination
     - A mask to be worn at all times
