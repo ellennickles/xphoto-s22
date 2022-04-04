@@ -19,7 +19,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/xphoto-s22) • [Resou
 | Mar 23 | Week 8 | [Generative Images 1 • Datasets](https://github.com/ellennickles/xphoto-s22/blob/main/schedule-assignments/week8) | 
 | Mar 30 | Week 9 | [Generative Images 2 • GAN Training](https://github.com/ellennickles/xphoto-s22/tree/main/schedule-assignments/week9) | 
 | | | **(Mini) Unit 3 • Custom Software and Interaction** |
-| Apr 6 | Week 10 | [Composite Operations in p5.js]() | 
+| Apr 6 | Week 10 | [Composite Operations in p5.js](https://github.com/ellennickles/xphoto-s22/tree/main/schedule-assignments/week10) | 
 | | | **(Mini) Unit 4 • Photographs in the World** |
 | Apr 13 | Week 11 | Field Trip • International Center of Photography (ICP) | 
 | | | **Final Projects** |
