@@ -7,7 +7,7 @@ technology, radically different from an image obtained through a photographic le
 
 ## Questions
 - What are some additional composite operations in p5.js (in addition to those from Week 7) to create and shoot compositions?
-- With this in mind, what else can we learn about digital photographic media by programming our own software?
+- With this in mind, what else can we learn about digital photographic media and its possibilities by programming our own software?
 
 
 ## In class
@@ -34,7 +34,7 @@ technology, radically different from an image obtained through a photographic le
 
 ## Assignment due Tuesday • Apr 12 • 11:59pm 
 ### PART 1 • EXPERIMENT & REFLECT 
-- Explore the compositing techniques this week by creating portrait of yourself or someone else. You are free to interpret the idea of a portrait however you wish. Some of you have already created self-portraits this semester but these techniques provide further options for a literally layering of ideas. 
+- Explore the compositing techniques this week by creating portrait of yourself or someone else. You are free to interpret the idea of a portrait however you wish. Some of you have already created self-portraits this semester but these techniques provide further options for a literally layering of ideas. Consider experimenting by configuring your camera lens through layers that you code in p5. 
 - If you're stuck on how to start, here's a self-portrait assignment from [Janet Delaney](http://www.janetdelaney.com/) from *The Photographer's Playbook*. Feel free to adapt this to plan a portrait of someone else if you go that route.
     1. Write ten nouns that best describe you.
     2. Now write ten adjectives.
