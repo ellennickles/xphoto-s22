@@ -13,6 +13,9 @@
 - 4:00pm - 4:20pm • Meet as a class to discuss final projects
 
 ## Final project description
+
+*Subject to updates as project evolve
+
 - **Schedule** • Your final project for this course is a three (3) week assignment to be completed in three (3) stages: 
     - Proposal (due Week 12)
     - Prototype to share in class for feedback (due Week 13)
