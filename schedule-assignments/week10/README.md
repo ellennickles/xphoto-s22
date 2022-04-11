@@ -75,5 +75,5 @@ Actual Size! Photography at Life Scale](https://www.icp.org/exhibitions/actual-s
     - 4:00pm - 4:20pm • Meet as a class to discuss final projects
 - **For entrance to the museum, please bring the following**
     - Your NYU student ID
-    - Proof of vaccination
+    - Proof of vaccination (photographs of vaccination cards are accepted)
     - A mask to be worn at all times
