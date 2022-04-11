@@ -8,7 +8,7 @@
 
 ## Assignment due Wednesday • May 4 • Start of class
 
-### PART 1 • COMPLETE YOUR PROJECT
+### PART 1 • COMPLETE YOUR FINAL PROJECT
 
 ### PART 2 • FINAL DOCUMENTATION
 Write your final project documentation in the form of a blog post. It's up to you to figure out how to best document your project. Here are some loose guidelines if you aren't sure what to include:
