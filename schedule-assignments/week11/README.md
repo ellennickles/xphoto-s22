@@ -35,8 +35,7 @@
 
 ## Assignment due Wednesday • Apr 20 • Start of class
 
-### Final Project Proposals
-#### PART 1 • RESEARCH YOUR IDEA
+### PART 1 • RESEARCH YOUR FINAL PROJECT IDEA
 - Next week (Week 12) you'll share you project idea and plan, and also ask our class questions for feedback. A best you can, describe what you intend to make and also the steps necessary to realize your idea. 
 - Here are some suggestions of what to collect:
     - **Title and description** • Do you have an idea for a working title and/or a brief description of the final deliverable?
@@ -47,7 +46,7 @@
     - **Production** • What technical steps will you need to take to realize your idea? 
     - **Code** • If you project uses code, do you have links to past projects, other people's projects, or examples?
     - **Questions for your classmates** • What are you unsure of conceptually, creatively, or technically? On what aspect(s) would you like feedback?
-#### PART 2 • PREPARE A PRESENTATION
+### PART 2 • PREPARE A PROPOSAL AND PRESENTATION
 - Write a blog post to share with the class in a four (4)-min presentation. Use the list above as an outline to illustrate what’s in your head.
 - If you are collaborating with a partner or group, everyone is still expected to write a post and present for four (4) minutes each.
 - This assignment is worth five (5) points: four (4) for describing your project proposal using relevant aspects of the list above and one (1) for submitting the post on time.
