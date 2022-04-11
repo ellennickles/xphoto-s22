@@ -50,7 +50,7 @@
 #### PART 2 • PREPARE A PRESENTATION
 - Write a blog post to share with the class in a four (4)-min presentation. Use the list above as an outline to illustrate what’s in your head.
 - If you are collaborating with a partner or group, everyone is still expected to write a post and present for four (4) minutes each.
-- This assignment is worth five (5) points: four (4) describing your project proposal using relevant aspects of the list above and one (1) for submitting the post on time.
+- This assignment is worth five (5) points: four (4) for describing your project proposal using relevant aspects of the list above and one (1) for submitting the post on time.
  
 ### SUBMIT • [Submit your blog post here](https://forms.gle/JfwCTv7JqkieZ8yz8)
 
