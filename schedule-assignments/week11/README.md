@@ -1,4 +1,4 @@
-# Apr 13 • Week 11 • ICP Field Trip & Final Project Description
+# Apr 13 • Week 11 • ICP Field Trip / Final Project Description
 
 >Are there too many images in the world? Too many of the wrong kind? Too many that we don’t like or want or need? These feel like very contemporary questions, but they have a rich and fascinating history. [A Trillion Sunsets: A Century of Image Overload](https://www.icp.org/exhibitions/a-trillion-sunsets) takes a long look at our worries and compulsive fascination with the proliferation of photographic images... In the 1920s, with the rapid increase in illustrated magazines and daily newspapers, commentators asked whether society could survive the visual inundation. Artists looked to mass-media imagery and archives of all kinds to rethink the world around them... From scrapbooks to internet memes, from collage and image appropriation to art made by algorithms, A Trillion Sunsets highlights unlikely parallels and connections across distinct decades. (Exhibit at [ICP](https://www.icp.org/), Jan 28 – May 2, 2022)
 
