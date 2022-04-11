@@ -10,14 +10,7 @@
 
 ### PART 1 • COMPLETE YOUR PROJECT
 
-### PART 2 • PREPARE A PRESENTATION
-- Prepare a four (4)-min presentation about your project. Feel free to include any questions to direct feedback after your presentation.  
-- If your project is online, be prepared to share a link.
-- If your project is a physical object, please bring it to class.
-- If your project involves physical interaction, as prepare a short video (~2 min) of the experience as a backup.
-- HINT: Use your final documentation blog post as an outline.
-
-### PART 3 • FINAL DOCUMENTATION
+### PART 2 • FINAL DOCUMENTATION
 Write your final project documentation in the form of a blog post. It's up to you to figure out how to best document your project. Here are some loose guidelines if you aren't sure what to include:
 - **Title** and one-sentence description
 - **Link** to project (if online)
@@ -29,6 +22,13 @@ Write your final project documentation in the form of a blog post. It's up to yo
 - **Next steps** • If you had more time to work on this, what would you do next?
 - If the project is a collaboration, each person is expected to submit a post documenting their contributions.
 
-This assignment is worth ten (10) points: five (5) for the project implementation and five (5) for the presentation and documentation.
+### PART 3 • PREPARE A PRESENTATION
+- Prepare a four (4)-min presentation about your project. Feel free to include any questions to direct feedback after your presentation.  
+- If your project is online, be prepared to share a link.
+- If your project is a physical object, please bring it to class.
+- If your project involves physical interaction, as prepare a short video (~2 min) of the experience as a backup.
+- HINT: Use your final documentation blog post as an outline.
+
+This assignment is worth ten (10) points: five (5) for the project implementation and five (5) for the documentation and presentation.
 
 ### SUBMIT • [Submit your blog post here](https://forms.gle/JfwCTv7JqkieZ8yz8)
