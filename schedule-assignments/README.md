@@ -21,8 +21,8 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/xphoto-s22) • [Resou
 | | | **(Mini) Unit 3 • Custom Software and Interaction** |
 | Apr 6 | Week 10 | [Composite Operations in p5.js](https://github.com/ellennickles/xphoto-s22/tree/main/schedule-assignments/week10) | 
 | | | **(Mini) Unit 4 • Photographs in the World** |
-| Apr 13 | Week 11 | Field Trip • International Center of Photography (ICP) | 
+| Apr 13 | Week 11 | [ICP Field Trip / Final Project Description](https://github.com/ellennickles/xphoto-s22/tree/main/schedule-assignments/week11) | 
 | | | **Final Projects** |
-| Apr 20 | Week 12 | Final Project Proposals | 
-| Apr 27 | Week 13 | Final Project Feedback |
-| May 4 | Week 14 | Final Project Presentations | 
+| Apr 20 | Week 12 | [Final Project Proposals](https://github.com/ellennickles/xphoto-s22/blob/main/schedule-assignments/week12/README.md) | 
+| Apr 27 | Week 13 | [Final Project Feedback](https://github.com/ellennickles/xphoto-s22/blob/main/schedule-assignments/week13/README.md) |
+| May 4 | Week 14 | [Final Project Presentations](https://github.com/ellennickles/xphoto-s22/tree/main/schedule-assignments/week14) | 
