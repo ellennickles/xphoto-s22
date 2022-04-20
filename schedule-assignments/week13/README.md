@@ -26,7 +26,7 @@ Write your final project documentation in the form of a blog post. It's up to yo
 - Prepare a four (4)-min presentation about your project. Feel free to include any questions to direct feedback after your presentation.  
 - If your project is online, be prepared to share a link.
 - If your project is a physical object, please bring it to class.
-- If your project involves physical interaction, as prepare a short video (~2 min) of the experience as a backup.
+- If your project involves physical interaction, prepare a short video (~2 min) of the experience as a backup.
 - HINT: Use your final documentation blog post as an outline.
 
 This assignment is worth ten (10) points: five (5) for the project implementation and five (5) for the documentation and presentation.
