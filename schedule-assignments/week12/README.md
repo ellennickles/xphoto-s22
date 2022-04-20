@@ -8,7 +8,7 @@
 
 ## Preparing for playtesting next week
 - Next week (Week 13) is a opportunity to share a version of your project for feedback.
-- Observing how others engage with your project is an incredibly valuable part of the design process to understand what’s working (and not) in order to improve the experience. Sometimes unexpected user questions and interactions provide new insights for developing projects in entirely new directions.
+- Observing how others engage with your project is an incredibly valuable part of the design process to understand what’s working (and not) in order to improve the experience. Sometimes unexpected user questions and interactions provide new insights for developing projects in entirely different directions.
 - It's up to you to design your user testing. It can mean something different for each project. For example, it might be more obvious what to do for a website or a publication vs a physical installation. If you are not sure how to design your testing, let me know and we'll figure out some options.
 - When testing, show rather than tell your idea as much as possible. The *rule* that we’ll try to adhere to is no explaining of the project until after the user has viewed or interacted with it. So if possible, no special instructions to testers before they start.
 - But! If your project is meant for a specific context or audience, then state the minimal amount of information, e.g. where ideally would this project be experienced and who is your audience/user base? (Note that everyone or anyone is not a user base.)
