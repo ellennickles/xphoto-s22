@@ -124,7 +124,7 @@ There are two assignments each week:
 
 You are welcome to combine both parts into one blog post. Check the [Schedule and Assignments](https://github.com/ellennickles/xphoto-s22/tree/main/schedule-assignments) for specific homework descriptions, due dates, and submission links.
 
-### Final Project
+### [Final Project](https://github.com/ellennickles/xphoto-s22/tree/main/schedule-assignments/week11#final-project-description)
 The course will culminate with the completion of a final project to be shared in class. You are expected to push your abilities to produce something that builds off or is inspired by the concepts explored during the semester. For the final project you are expected to present a project proposal, create a working prototype to share for peer feedback, and present a completed final project to our class. 
 
 ## Grading
@@ -145,14 +145,14 @@ Assignments will be evaluated on timeliness, completeness, and engagement with t
 
 **Late assignments**: weekly assignments will be accepted up to one (1) week late.  
 
-The **final project** is expected to be completed in three stages (proposal, prototype, and implementation and presentation). Specific grading criteria for each stage will be provided later in the semester.
+The **[final project](https://github.com/ellennickles/xphoto-s22/tree/main/schedule-assignments/week11#final-project-description)** is expected to be completed in three stages (proposal, prototype, and implementation and presentation). Specific grading criteria for each stage will be provided later in the semester.
 
 **Final course evaluation** will be based on participation and attendance, and the completion of all assignments, including the final project, according to this breakdown:
 
 - 30% Participation and attendance
 - 25% Photography experiments and reflections (10 * 2.5%)
 - 25% Written reading responses (10 * 2.5%)
-- 20% Final project (5% proposal, 5% prototype, 10% project and presentation)
+- 20% Final project (5% [proposal](https://github.com/ellennickles/xphoto-s22/tree/main/schedule-assignments/week11#assignment-due-wednesday-apr-20--start-of-class), 5% [prototype](https://github.com/ellennickles/xphoto-s22/tree/main/schedule-assignments/week12#assignment-due-wednesday-apr-27--start-of-class), 10% [project and presentation](https://github.com/ellennickles/xphoto-s22/tree/main/schedule-assignments/week13#assignment-due-wednesday-may-4--start-of-class))
 
 This class uses the standard A through F letter grading system, and grades will be determined according to this criteria:
 92.5 - 100% A, 
