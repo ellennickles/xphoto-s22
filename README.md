@@ -164,6 +164,7 @@ This class uses the standard A through F letter grading system, and grades will 
 72.5% - 77.5% C, 
 70% - 72.5% C-,
 67.5% - 70% D+,
+62.5% - 67.5% D,
 60% - 62.5% D-, and
 0% - 60% F
 
