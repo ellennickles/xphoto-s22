@@ -4,4 +4,4 @@
 
 ## In class
 - Present final projects 🙌
-- Course evaluation (link TBA)
+- [Course evaluation](https://m.albert.nyu.edu/app/student/nyuCrseEval/crseEval/1224/22304/T_ITP/10)
