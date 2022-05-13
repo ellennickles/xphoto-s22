@@ -157,18 +157,18 @@ The **[final project](https://github.com/ellennickles/xphoto-s22/tree/main/sched
 This class uses the standard A through F letter grading system, and grades will be determined according to this criteria:
 92.5 - 100% A, 
 90.0 - 92.5% A-, 
-87.5% - 90% B+, 
-82.5% - 87.5% B, 
-80% - 82.5% B-, 
-77.5% - 80% C+,
-72.5% - 77.5% C, 
-70% - 72.5% C-,
-67.5% - 70% D+,
-62.5% - 67.5% D,
-60% - 62.5% D-, and
-0% - 60% F
+87.5 - 90% B+, 
+82.5 - 87.5% B, 
+80 - 82.5% B-, 
+77.5 - 80% C+,
+72.5 - 77.5% C, 
+70 - 72.5% C-,
+67.5 - 70% D+,
+62.5 - 67.5% D,
+60 - 62.5% D-, and
+0 - 60% F
 
-In general, A indicates excellent work, B indicates good work, C indicates satisfactory work, and D indicates passable work and is the lowest passing grade. F indicates failure. There are some additional grades: P for pass and  W for Withdrawal—which are granted administratively. Please note that IMA majors need a C or higher to satisfy their IMA requirements, i.e. receiving a D will not count for credit towards the IMA major.
+In general, A indicates excellent work, B indicates good work, C indicates satisfactory work, and D indicates passable work and is the lowest passing grade. F indicates failure. There are some additional grades: P for Pass and  W for Withdrawal—which are granted administratively. Please note that IMA majors need a C or higher to satisfy their IMA requirements, i.e. receiving a D will not count for credit towards the IMA major.
 
 ## Statements
 ### Academic Integrity 
