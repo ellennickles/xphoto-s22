@@ -25,8 +25,6 @@
 
 ## Assignment due Tuesday • Mar 1 • 11:59pm
 
-[How to get full credit on weekly assignments.](https://github.com/ellennickles/xphoto-s23#overview-of-assignments)
-
 ### PART 1 • EXPERIMENT & REFLECT (PARTNERS OPTIONAL)
 - Continue to work with sensor triggers and take a series of images, but add color this week. Be deliberate about color choices and placement in the composition. You could focus on one dominant color or work within a color scheme. 
 - Work with the same sensor, a new one, or several at time. Continue to consider: how is triggering the capture the result of a change (or inactivity) in the environment or an action (or reaction) of the body? Is the triggering active or passive? How does the choice of sensor and its context in the world contribute to the intentions or expressions of the image? The only rule is: no buttons or toggle switches on your Arduino to trigger captures.
