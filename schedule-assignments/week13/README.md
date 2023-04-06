@@ -1,6 +1,6 @@
 # Apr 27 • Week 13 • Final Project Feedback
 
-*Subject to updates as project evolve
+*Subject to updates as projects evolve
 
 ## In class
 - Feedback sessions 
