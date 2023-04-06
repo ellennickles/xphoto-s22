@@ -1,6 +1,6 @@
 # Apr 20 • Week 12 • Final Project Proposals
 
-*Subject to updates as project evolve
+*Subject to updates as projects evolve
 
 ## In class
 - Present final project proposals
