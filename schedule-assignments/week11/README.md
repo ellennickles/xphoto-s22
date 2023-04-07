@@ -14,7 +14,7 @@
 
 ## Final project description
 
-*Subject to updates as project evolve
+*Subject to updates as projects evolve
 
 - **Schedule** • Your final project for this course is a three (3) week assignment to be completed in three (3) stages: 
     - Proposal (due Week 12)
